@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wildalella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning IT and Programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Shooter/Intake for FRC
 - 📫 You can reach me via email at bushpayton12@gmail.com
 
 <!---
