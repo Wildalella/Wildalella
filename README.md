@@ -8,8 +8,8 @@ Hardware: Microcontrollers, Flight Controllers, LiDAR, GPS other advance sensors
 
 ---
 
-**Tip**
+**Tip!**
 
-~ **Autonmous Rover Project** is labled **pymavlink_app** in my repo
+~ **Autonmous Rover Project** is labeled **pymavlink_app** in my repo
 
-~ **Computer Vision Pipeline** is labled **STAR-Particle-Analysis** in my repo
+~ **Computer Vision Pipeline** is labeled **STAR-Particle-Analysis** in my repo
