@@ -6,8 +6,10 @@ Frameworks/Tools: ROS, Pymavlink, Flask, Arduino, OpenCV, SQLite, Linux
 
 Hardware: Microcontrollers, Flight Controllers, LiDAR, GPS other advance sensors
 
+---
+
 **Tip**
 
-~ Autonmous Rover Project is labled pymavlink_app in my repo
+~ **Autonmous Rover Project** is labled **pymavlink_app** in my repo
 
-~ Computer Vision Pipeline is labled STAR-Particle-Analysis in my repo
+~ **Computer Vision Pipeline** is labled **STAR-Particle-Analysis** in my repo
